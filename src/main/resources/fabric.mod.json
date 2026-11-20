@@ -3,9 +3,9 @@
 	"id": "lettered-notetaking",
 	"version": "${version}",
 	"name": "Lettered Notetaking",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "This mod is a richly integrated note-taking mod!",
 	"authors": [
-		"Me!"
+		"Inklingbot"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
